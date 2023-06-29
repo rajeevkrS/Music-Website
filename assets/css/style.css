@@ -1182,12 +1182,14 @@ input[type="checkbox"]:checked ~ .latest-release-dropdown {
     border-radius: 50%;
 }
   
-.fa-circle-play  {
+i.fa-circle-play {
     background: linear-gradient(90deg, green, yellow, red, blue);
     background-size: 200% 200%;
     animation: gradient 3s ease infinite;
     color: transparent;
     -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
   
 @keyframes gradient {
