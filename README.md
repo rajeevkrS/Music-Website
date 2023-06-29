@@ -1,2 +1,7 @@
 # Music-Website
-Simple Web Design using HTML and CSS 
+Responsive Web Design using HTML and CSS 
+
+
+Live Link: https://rajeevkrs.github.io/Music-Website/
+
+
